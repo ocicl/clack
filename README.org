@@ -5,5 +5,6 @@ Web server abstraction layer for Common Lisp
 |---------+--------------------------------------------|
 | source  | git:https://github.com/fukamachi/clack.git |
 | commit  | 488cfb3                                    |
-| systems | clack-socket                               |
+| systems | clack                                      |
 |---------+--------------------------------------------|
+
